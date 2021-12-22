@@ -18,4 +18,4 @@ To view this project click [here](https://hauntedhouse-sandy.vercel.app/)
 This project uses three.js and webpack.
 
 ## Questions
-Questions? Reach out at [github.com/lindseyintech](github.com/lindseyintech)
+Questions? Reach out at [github.com/lindseyindev](github.com/lindseyindev)
